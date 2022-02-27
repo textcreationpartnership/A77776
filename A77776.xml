@@ -1,0 +1,355 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Right Honourable William, Earl of Craven; John, Earl of Bath; John, Lord Berkley; George, Lord Cartret; Anthony, Lord Ashley; Sir John Colleton, Barronet: being proprietors of Carolina, and the Bahama islands Thomas Bulkley, a free-holder, inhabitant and merchant of New Providence (one of the said islands) humbly presenteth the following address, viz.</title>
+            <author>Bulkley, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77776</idno>
+            <idno type="STC">Wing B5408</idno>
+            <idno type="STC">ESTC R223154</idno>
+            <idno type="EEBO-CITATION">99897759</idno>
+            <idno type="PROQUEST">99897759</idno>
+            <idno type="VID">170934</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77776)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170934)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2525:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Right Honourable William, Earl of Craven; John, Earl of Bath; John, Lord Berkley; George, Lord Cartret; Anthony, Lord Ashley; Sir John Colleton, Barronet: being proprietors of Carolina, and the Bahama islands Thomas Bulkley, a free-holder, inhabitant and merchant of New Providence (one of the said islands) humbly presenteth the following address, viz.</title>
+                  <author>Bulkley, Thomas.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Concerns, at least in part, Cadwallader Jones.</note>
+                  <note>Reproduction of original in the John Carter Brown Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Jones, Cadwallader --  Early works to 1800.</term>
+               <term>Bahamas --  History --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:170934:1" rendition="simple:additions"/>
+            <pb facs="tcp:170934:2"/>
+            <pb n="1" facs="tcp:170934:2"/>
+            <head>To the Right Honourable <hi>William,</hi> Earl of <hi>Craven; John,</hi> Earl of <hi>Bath; John,</hi> Lord <hi>Berkley; George,</hi> Lord <hi>Cartret; Anthony,</hi> Lord <hi>Aſhley;</hi> Sir <hi>John Colleton,</hi> Barronet: Being Proprietors of <hi>Carolina,</hi> and the <hi>Bahama</hi> Iſlands.</head>
+            <head type="sub"> Thomas Bulkley, <hi>a Free-holder, Inhabitant and Merchant of</hi> New Providence <hi>(one of the ſaid Iſlands) Humbly preſenteth the following Addreſs,</hi> Viz.</head>
+            <p>WHereas (by ſundry papers Preſented to Your Lordſhips for Your peruſal;) <hi>I</hi> the ſaid <hi>Bulkley,</hi> have informed You larg<g ref="char:EOLhyphen"/>ly and particularly of the Numerous and Highly aggravated Crimes and Miſde<g ref="char:EOLhyphen"/>meanours of <hi>Cadwallader Jones,</hi> late Governour of Your laſt named Province, in and through the whole time that he pre<g ref="char:EOLhyphen"/>ſided there; and of my long continued Cruel Sufferings (un<g ref="char:EOLhyphen"/>der his Uſurped Tyrannical power) for my Loyalty to the King, Fidelity and Zealous Service to Your Lordſhips, and the Inhabitants of Your ſaid Province: And that after I was
+<pb n="2" facs="tcp:170934:3"/> delivered by Law, I demanded Legal Proceſs againſt <hi>Jones,</hi> his wicked Abettors, and Agents; but it was Corruptly de<g ref="char:EOLhyphen"/>nied to me by <hi>Nicholas Trott,</hi> (whom Your Lordſhips Com<g ref="char:EOLhyphen"/>miſſioned to ſucceed <hi>Jones</hi> in the Government of the <hi>Bahama</hi> Iſlands, and by Governour <hi>Blake,</hi> and the reſt of Your Ju<g ref="char:EOLhyphen"/>dicial Officers at <hi>Carolina,</hi> and preſented Propoſals to Your Lordſhips, <hi>Viz.</hi> That You would put me into a Capacity by Law to Obtain ſpeedy Juſtice in the Reparation of my Damages, and the Condign Puniſhment of my barbarous Oppreſſors, and thoſe who by a perjurious neglect of doing Juſtice, have promoted their Eſcape, all which Papers I hope Your Lordſhips have throughly peruſed, and duly conſide<g ref="char:EOLhyphen"/>red, and my juſt Expectations and Supplications as afore<g ref="char:EOLhyphen"/>ſaid, the Reaſonableneſs whereof, I humbly offer to Your Lordſhips further conſideration, in the particulars following.</p>
+            <div n="1" type="part">
+               <head>I.</head>
+               <p>Becauſe the Office and Exorbitant Power whereby <hi>Jones</hi> was inabled and imboldened to commit thoſe horrible Crimes Alledged againſt him, and to Oppreſs me ſo cruelly for my oppoſing him therein regularly and according to the duty of my Place and Station in the Government, was Conferred on him by Commiſſion and inſtructions from Your Lordſhips without due Examination of his fitneſs for diſcharging the dutys thereof, for, if You had made but a ſlight inquiſition into his inabilitys for Government, You would ſoon have diſcerned that privatively and poſitively he was utterly un<g ref="char:EOLhyphen"/>qualified for the meaneſt Office of Power and Publick Truſt inſtituted for the common benefit of humane Society, being deſtitute of all Moral Endowments requiſite thereunto, and habitually propenſe to ſuch Vices which to reſtrain from, and puniſh for, was a principal end of Erecting and Eſtabli<g ref="char:EOLhyphen"/>ſhing Government among Men.</p>
+            </div>
+            <div n="2" type="part">
+               <pb n="3" facs="tcp:170934:3"/>
+               <head>II.</head>
+               <p>Becauſe ſoon after he was Inſtaled in his Office, his Addreſs to Your Lordſhips, his Letters to Col. <hi>Colleton,</hi> Governour of <hi>Carolina,</hi> againſt <hi>Proprietor Southwel,</hi> to Sir <hi>Robert Robin<g ref="char:EOLhyphen"/>ſon</hi> Governour of <hi>Burmudas,</hi> to Mr. <hi>Simon Muſgrave,</hi> Atorney General at <hi>Jamaica,</hi> and to Mr. <hi>Samuel Trott,</hi> Collector at <hi>Burmudas,</hi> being all ſtuff'd with Nonſenſical Rallery, and nauceous ſcurrility, manifeſted him to be an impudent ſhat<g ref="char:EOLhyphen"/>ter brained Idiot, fitter for <hi>Bedlam,</hi> or <hi>Bridewell,</hi> than any place of Authority; yet you continued him near four years in the Adminiſtration of that Suprem Office; wherein his whole managment hath been greatly to the diſhonour of Your Lordſhips, and damage of the people inhabiting Your ſaid Province.</p>
+            </div>
+            <div n="3" type="part">
+               <head>III.</head>
+               <p>Becauſe all his barbarous and unjuſt dealings with me, have been done by Colour of his Office, and by pretended Authority from Your Lordſhips, whoſe Names he hath con<g ref="char:EOLhyphen"/>ſtantly uſed to imbolden his Agents in the Execution of his unlawful Precepts; <hi>Viz.</hi> To Impriſon people without any cauſe, detain them during his pleaſure, break their Houſes and Rob them of their goods, <hi>&amp;c.</hi> Whereby he hath Repre<g ref="char:EOLhyphen"/>ſented Your Lordſhips as a company of <hi>Nimrods,</hi> that delight in hunting men to deſtruction, and therefore ſend ſuch beaſts of prey to Rule over them.</p>
+            </div>
+            <div n="4" type="part">
+               <head>IV.</head>
+               <p>Becauſe <hi>Nicholas Trott</hi> (who ſucceeded <hi>Jones</hi> in the Govern<g ref="char:EOLhyphen"/>ment of the ſaid Province by Commiſſion from Your Lord<g ref="char:EOLhyphen"/>ſhips,)
+<pb n="4" facs="tcp:170934:4"/> denied me my Birth-right-priviledge, <hi>viz.</hi> the bene<g ref="char:EOLhyphen"/>fit of the Laws of <hi>England,</hi> for my own relief, and the Ex<g ref="char:EOLhyphen"/>emplary puniſhment of my mercileſs oppreſſors; the chief of whom he preferred to places of great Dignity and Au<g ref="char:EOLhyphen"/>thority in the Government, though guilty of, and accuſed for <hi>Trayterous and Felonious Conſpiracys, Burglarys,</hi> and other heinous <hi>Crimes,</hi> and at the ſame time held me a cloſe Pri<g ref="char:EOLhyphen"/>ſoner, denying me Bail, and delaying my Tryal two months after he became Governour, though I had then been hardly impriſoned under <hi>Jones</hi> his Uſurpation 14 months, and when I was cleared by Law, and in the King's Name demanded Le<g ref="char:EOLhyphen"/>gal Proceſs againſt <hi>Jones,</hi> and <hi>Graves;</hi> he permitted both to Re<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ire out of the Province, whereby they have Eſcaped Demerited-puniſhment, and becauſe the ſaid <hi>Trott</hi> hath Aſ<g ref="char:EOLhyphen"/>ſumed and Exerciſed an Arbitrary and Tyrannical Power over the Perſons, Libertys, and Propertys of the Kings Sub<g ref="char:EOLhyphen"/>jects inhabiting Your ſaid Province, ever ſince he came to the Government.</p>
+            </div>
+            <div n="5" type="part">
+               <head>V.</head>
+               <p>Becauſe through the denials of Juſtice by Your Lordſhips Miniſters at <hi>Providence,</hi> and <hi>Carolina;</hi> I am Neceſſitated to leave the Place of my Setled Habitation and Trade, my Lands, Houſes, Goods, and Debts of great value, and to Ex<g ref="char:EOLhyphen"/>poſe my ſelf to great Perril of Life and Liberty, and to great Expence of time and mony in Traveling 3000 miles over the <hi>Seas,</hi> viz. From <hi>Providence</hi> to <hi>England,</hi> to ſpread my deplorable <hi>Caſe</hi> before Your Lordſhips, to whom only (<hi>Trott</hi> ſaith) <hi>Jones</hi> is anſwerable for the male Adminiſtration of his Office; and by the Denials aforeſaid, I am deprived of witneſſes here <hi>[viva voce]</hi> to prove the matters of <hi>Fact</hi> which I have Aledged againſt them, and for which I am bound to proſſecute.</p>
+            </div>
+            <div n="6" type="part">
+               <pb n="5" facs="tcp:170934:4"/>
+               <head>VI.</head>
+               <p>Becauſe they who have the diſpoſal of Offices for Admini<g ref="char:EOLhyphen"/>ſtration of Juſtice, ought not to put into them any but ſuch as are duely qualified, and for whom they will anſwer, the Law ſays <hi>Reſpondeat Superior,</hi> which is the reaſon why Se<g ref="char:EOLhyphen"/>curity is required for ſuch Officers before they can Execute their reſpective Offices; otherwiſe the Perſons ſuſtaining<g ref="char:punc">▪</g> damage by their ignorant or corrupt Errors, would be de<g ref="char:EOLhyphen"/>ſtitute of remedy, whereby thoſe Offices that are appointed for common benefit, would become the moſt Common and only Remediles grievances.</p>
+            </div>
+            <div n="7" type="part">
+               <head>VII.</head>
+               <p>Becauſe Your Lordſhips (by whom <hi>Jones, Trott, Blake,</hi> &amp;c. were Veſted with the ſaid Offices and Exorbitant powers which Enabled and Imboldened them, their Abettors and Agents to do thoſe <hi>Acts</hi> of monſtrous Cruelty and Injuſtice to me, and whereby I have been deprived of the benefit of the Laws for my own relief, and their puniſhment) are be<g ref="char:EOLhyphen"/>yond expreſſion better able to repair my Loſſes and Damages, than I am to bear them, who have loſt a Virtuous Wife (frighted to Death by the <hi>Burglarious</hi> and other Terrifying <hi>Acts</hi> of Violence done by the ſaid <hi>Jones</hi> and his Complices) my own health, by hard and long Impriſonment, my whole Eſtate in Lands, <hi>&amp;c.</hi> as aforeſaid; am put out of all manner of Employment, diſabled to pay my Debts, and to betake my ſelf to the Free and Publick Exerciſe of any Occupation, for maintaining my ſelf and Offspring; or to be in any conſide<g ref="char:EOLhyphen"/>rable degree uſeful in my Generation, in which <hi>Caſe,</hi> Life is undeſirable to a good man.</p>
+               <pb n="6" facs="tcp:170934:5"/>
+               <p>The Exorbitant Powers (in the firſt f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>going Reaſon) ſaid to be Confer'd by Your Lordſhips upon <hi>Jones,</hi> were that by Commiſſion You impowered him, and by inſtructions directed him to appoint a Deputy to Each <hi>Proprietor</hi> ac<g ref="char:EOLhyphen"/>cording to his pleaſure, and every Deputy ſo appointed to be always a Member of the Grand Councel, and of the Up<g ref="char:EOLhyphen"/>per Houſe in the General Aſſembly, and to hold thoſe Places of Dignity and Authority during his pleaſure: And he with the conſent of three Deputys of his own Election and ap<g ref="char:EOLhyphen"/>pointment, to Ratify or Reject ſuch Laws as ſhould be choſen by the Peoples Repreſentatives Convened in a General Aſ<g ref="char:EOLhyphen"/>ſembly, alſo to Adjourn, Prorogue and Diſſolve the Aſſembly at their Arbitrary will and pleaſure, which Powers the ſaid <hi>Jones</hi> hath corruptly uſed to the Subverting of the very Ends of Government, in appointing Indigent Illiterate and Vitious Men to be your Deputys; whereof ſome have been Notoriouſly guilty of Capital Crimes: Theſe being introduced by his fa<g ref="char:EOLhyphen"/>vour and holding their Places <hi>duranto bene placito,</hi> by their ſervile Compl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ance with him in his Arbitrary and oppreſſive Practices, and Trayterous Conſpiracies, have furthered the Execution thereof, and fruſtrated the good Effect of all Le<g ref="char:EOLhyphen"/>gal means uſed, for limiting his Exorbitant power, and Re<g ref="char:EOLhyphen"/>dreſſing the Peoples intollerable grievances, under his Tyran<g ref="char:EOLhyphen"/>ny. By the Advice and Conſent of ſuch dependent Creatures, he hath procured long Intermiſſions, undue Elections, and abrupt Diſſolutions of General Aſſemblies, and thereby hath Defeated the chief Ends of the Conſtitution and Convention of that Supream Court, <hi>viz.</hi> Enacting beneficial Laws, Re<g ref="char:EOLhyphen"/>dreſſing Grievances, and correcting the Exorbitances of per<g ref="char:EOLhyphen"/>nitious Favorites and corrupt Miniſters of State</p>
+               <p>To evince the truth of what is ſaid concerning his choice of Deputys, I preſent Your Lordſhips with a Catalogue of the Names, and a deſcription of the Perſons who were ap<g ref="char:EOLhyphen"/>pointed
+<pb n="7" facs="tcp:170934:5"/> to be Your Deputys, by <hi>Cadwallader Jones,</hi> in the time of his Tyrannical Government of Your ſaid Province, <hi>viz.</hi> from the 19th day of <hi>June Anno</hi> 1690. to the 16th day of <hi>April</hi> 1694. <hi>viz.</hi> Himſelf, whoſe diſcription you have had before; <hi>Bartholomew Mercier,</hi> an indigent <hi>French</hi> Alien, and a Robber of <hi>French Proteſtant</hi> Refugees; <hi>John Graves,</hi> a per<g ref="char:EOLhyphen"/>petual Incendiary; <hi>Gilbert Aſhley, Bowen Claſen, Allen Abbot,</hi> a Pirate, <hi>Timothy Rumney,</hi> a reputed <hi>Papiſt,</hi> [the two laſt were choſen Deputys to ſtrengthen a Conſpiracy to Baniſh <hi>Bulkley,</hi> for oppoſing <hi>Jones</hi> his Tyranny in a Parliamentary way] <hi>Richard Holloway, Daniel Jackſon,</hi> a Notorious Pirate; <hi>Martin Cock,</hi> a ſervant to a <hi>Punch</hi>-houſe-keeper; <hi>Thomas Cum<g ref="char:EOLhyphen"/>ber,</hi> an Illiterate man, who could not write his own Name; <hi>Thomas Peck, Thomas Williams,</hi> a Notorious Pirate; <hi>Aſhley</hi> and <hi>Claſen</hi> (being ſencible and ſober men) were diſplaced by <hi>Jones,</hi> and <hi>Halloway</hi> avoided the ſame fate, by going to <hi>Jamaica.</hi>
+               </p>
+               <p>That the Character I have given of <hi>Jones</hi> may be Evident<g ref="char:EOLhyphen"/>ly verified, I have inſerted his Letter to Mr. <hi>Samuel Trott,</hi> and the Anſwers thereunto, alſo Sir <hi>Peter Colleton</hi>'s Letter to <hi>Jones,</hi> as a Specimen thereof, <hi>Viz.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="letter">
+            <head>A LETTER from <hi>Cadwallader Jones,</hi> Gover<g ref="char:EOLhyphen"/>nour of the <hi>Bahama</hi> Iſlands in <hi>America</hi> (by Commiſſion from the Right Honourable <hi>William</hi> Earl of <hi>Craven, John</hi> Earl of <hi>Bath, John</hi> Lord <hi>Berkley, George</hi> Lord <hi>Cartret, Anthony</hi> Lord <hi>Aſhley,</hi> and Sir <hi>Peter Colleton,</hi> Barronet, being Proprietors of the ſaid Province.) Superſcribed to <hi>Sam. Trott,</hi> Eſq, Governour would be of the <hi>Bahamas,</hi> and his Counſel, in <hi>Barmudas.</hi> Hum<g ref="char:EOLhyphen"/>bly preſent, <hi>per</hi> Capt. <hi>Walmſley.</hi>
+            </head>
+            <div type="part">
+               <pb n="8" facs="tcp:170934:6"/>
+               <l>My nefarious Friend, <hi>Samuel Trott,</hi>
+               </l>
+               <l>Let thy Villanies and Treaſonable Conſpiracies rot.</l>
+               <l>Your little thoughts, and Forging Hands,</l>
+               <l>Will bring you where the Gallows ſtands.</l>
+               <l>By chance a Collector, but now a Projector,</l>
+               <l>Will Murder do, to prove your ſelf a Hector.</l>
+               <l>Firſt to begin, he cauſes Reports of <hi>Walmſley,</hi>
+               </l>
+               <l>
+                  <hi>Bridge</hi> was ſure of him, I'de make <hi>Mummy.</hi>
+               </l>
+               <l>Great is our God and doth Commiſerate,</l>
+               <l>Thoſe Inprinciples that Sin do hate.</l>
+               <l>Your Mountaine hath brought forth a Mouſe,</l>
+               <l>Your Petition and Faction I value not a Louſe.</l>
+               <l>There is no danger of a Popiſh Succeſſor,</l>
+               <l>And of the Church of <hi>England</hi> I'le be a Profeſſor.</l>
+               <l>Call your Conventicle and be Damn'd,</l>
+               <l>I'le make you know in <hi>Province</hi> I ſtand.</l>
+               <closer>
+                  <dateline>
+                     <hi>Naſſav,</hi> 
+                     <date>Octob. <hi>12, 1691.</hi>
+                     </date>
+                  </dateline>
+                  <signed>Cadwallader Jones.</signed>
+               </closer>
+            </div>
+            <div type="postscript">
+               <pb n="9" facs="tcp:170934:6"/>
+               <head>Poſtſcript.</head>
+               <p>
+                  <hi>Sarra,</hi>
+               </p>
+               <p>I deſire no Dogs from your Iſland, with their Families to ſettle here, you may remember St. <hi>John</hi> in his <hi>New Je<g ref="char:EOLhyphen"/>ruſalem, Without are Dogs, Sorcers,</hi> &amp;c. which I take to be <hi>Non-con's,</hi> that St. <hi>John</hi> means, ſuch as you and your Subſcribers, which makes me uſe his juſt Title given you.</p>
+               <p>Its true, I cannot hinder you, the Land is before you; but I'le make you pay the Church Honourably by a Veſtry. I expect an Ordain'd Miniſter every day, and Sarra let me tell you 'tis in my power in Spight of your <hi>Mallice;</hi> you have not all the Biſhops in the <hi>Tower</hi> yet, and more I have Eſcap'd, being murdered by you and your Subſcribers Machinations. The 29th paſt is worſe on your ſides.</p>
+               <p>In few days a Parliament meets, the Diſcourſe of the City is That to prevent your Factious Maſters of <hi>Sloops</hi> daily Robberies in our Out Plantations, and to obſtruct your Trade, be it Enacted, That any <hi>Barmuda Men</hi> (coming into our Ports or Havens) that cannot ſay the Lords Prayer, the Creed, and the Ten Commandments, ſhall not have liberty to Trade; 'tis as rational as the <hi>Jews</hi> and <hi>Samaritans,</hi> you the <hi>Jews</hi> daily contriving the <hi>Killing</hi> of Kings. I'le ſay no more of you the World Rings.</p>
+               <closer>
+                  <dateline>
+                     <hi>Naſſau,</hi> 
+                     <date>
+                        <hi>Octob. the</hi> 12th 1691.</date>
+                  </dateline>
+                  <signed>Cadwallader Jones.</signed>
+               </closer>
+               <argument>
+                  <p>Governour <hi>Jones</hi>'s Accroſtick on the name of <hi>Trott,</hi> fol<g ref="char:EOLhyphen"/>loweth, <hi>viz.</hi>
+                  </p>
+                  <q>
+                     <l>True its ſaid your Siſters anells ſhape</l>
+                     <l>Rough thou and Brow, much the Ape.</l>
+                     <l>Ought Sip thou ſhalt for thy Rebellion,</l>
+                     <l>Tric'd I doubt not by a ſecond <hi>Gideon.</hi>
+                     </l>
+                  </q>
+               </argument>
+               <closer>
+                  <signed>C. J.</signed>
+               </closer>
+            </div>
+         </div>
+         <div type="letter">
+            <head>An Anſwer to the foregoing Letter from the ſaid <hi>Samuel Trott, Collector</hi> at <hi>Barmudas,</hi> the Inſcription being as fol<g ref="char:EOLhyphen"/>loweth, <hi>viz.</hi>
+            </head>
+            <div type="part">
+               <pb n="10" facs="tcp:170934:7"/>
+               <head>To the much Admired <hi>Cadwallader Jones,</hi> Eſq Capt. General and Governour of the Iſlands called <hi>New Providence, Elu<g ref="char:EOLhyphen"/>theria, Exuma, Cat Iſland,</hi> and <hi>Hog Iſland,</hi> and over all Perſons therein of what Colour ſoever, <hi>Whites, Blacks,</hi> or <hi>Muletto's,</hi> and of all Animals, and Inſects, of every Kind and Quality.</head>
+               <p>
+                  <hi>Great Sir,</hi>
+               </p>
+               <p>TO you theſe Lines are Dedicated, for (having received yours dated the 12th) I could do no leſs in gratitude than return you an anſwer, not doubting your acceptance thereof. I intended to have <hi>followed</hi> your method of Verſe before Proſe, but conſidering you put me in remembrance of <hi>St. John</hi> in his <hi>New Jeruſalem,</hi> in return threunto, I ſend you one of King <hi>Solomons</hi> Proverbical Ethicks, <hi>viz. Anſwer not a Fool according to his Folly, leaſt thou be like him.</hi> What I have now written may ſerve to ſettle your <hi>Windmil-Brain,</hi> when you return from your Exchange, <hi>Vulgarly called a Rum-Punch Houſe.</hi> The Superſcription and Seal of your Letter, was very pleaſing to me, much more the <hi>Poetical</hi> Ingenuity of your Verſes, and the <hi>Courtly</hi> ſtile of your Proſe, the rarity whereof, my <hi>Pen</hi> is too dull to Expreſs. It ex<g ref="char:EOLhyphen"/>ceeds <hi>Tom Thumb in Folio,</hi> or <hi>Don Quixot de Sancta Delapancha,</hi> the whole being ſo <hi>Savory,</hi> that all the <hi>Salt</hi> brought from <hi>Cat Iſland</hi> by our <hi>Interlopers</hi> (without your <hi>Clearings</hi>) could not have given ſo <hi>Savory a Relliſh.</hi> I mention the ſaid Learn<g ref="char:EOLhyphen"/>ed Authors ſuppoſing you have ſpent much of your time in Reading them, in order to better accompliſh you for Go<g ref="char:EOLhyphen"/>vernment:
+<pb n="11" facs="tcp:170934:7"/> O how unfortunate have I been, ſo long to be unacquainted with you, being a perſon of ſuch Incomparable parts, and Admirable <hi>Qualifications,</hi> that I am perſwaded no Academy in Europe hath produced your Equal, except the <hi>Colledge</hi> of <hi>Bedlam,</hi> where I preſume you have paſſed <hi>all Degrees.</hi> I am unwilling to trouble you with a long <hi>Epiſtle,</hi> elſe I would give you ſome account of the Medicinal Virtues and wonderful Operations of your Letter upon ſome People here (on which account, I think it well deſerves to be called Coll. <hi>Jones</hi>'s <hi>Catholicon</hi>) but you will have it from another hand. I had been more ſpeedy in my anſwer, but a report of your being put on Board a Veſſel in order to your Tranſ<g ref="char:EOLhyphen"/>portation, diverted me. If you pleaſe to ſend any more of your Compoſitions, they ſhall be poſted up for publick Ad<g ref="char:EOLhyphen"/>vertiſement. I have nought to add, but conclude Saluting you with a <hi>Panegyrick Poem</hi> on your <hi>Excellencies</hi> ſingular Endowments, Achievements, and Merits, <hi>viz.</hi>
+               </p>
+               <q>
+                  <l>Blaze forth Great <hi>Jones</hi> with thy ingenious Fire,</l>
+                  <l>'Twill make the Aged and the Wiſe admire.</l>
+                  <l>Diſplay the Beams of thy rare Virtues, and</l>
+                  <l>Raiſe Caſtles great by thy Induſtrious hand,</l>
+                  <l>Near tell us that in <hi>Providence</hi> you ſtand,</l>
+                  <l>More fit you are <hi>Utopia</hi> to Command:</l>
+                  <l>Such thundering Words as yours, how could they come</l>
+                  <l>From the dull Spirits of inſippid <hi>Rum.</hi>
+                  </l>
+                  <l>For we aſſure you, never yet before,</l>
+                  <l>Such Lines have reach'd our Petrified Shore.</l>
+                  <l>Brave <hi>Jones</hi> be ſtout, and ſtill have Courage Bold,</l>
+                  <l>
+                     <hi>Rum</hi> very ſhortly will be cheaper Sold.</l>
+                  <l>But ſtay my muſe, and let him have the Praiſe,</l>
+                  <l>Nature hath crown'd his Head with wreathed Bays.</l>
+               </q>
+            </div>
+            <div type="postscript">
+               <head>Poſtſcript.</head>
+               <pb n="12" facs="tcp:170934:8"/>
+               <p>
+                  <hi>Sir,</hi>
+               </p>
+               <p>I almoſt forgot to anſwer your Accroſtick, pray accept the following, from yours, <hi>Samuel Trott.</hi>
+               </p>
+               <l>
+                  <hi>Jones</hi> from <hi>Virginia</hi> lately ran away,</l>
+               <l>
+                  <hi>October</hi> was the Month as People ſay,</l>
+               <l>Now he tells us in <hi>Providence</hi> he doth ſtand,</l>
+               <l>E're long hee'l run from thence or will be Hang'd,</l>
+               <l>Such Fools as he nere knew how to Command.</l>
+            </div>
+         </div>
+         <div type="letter">
+            <head>An Abſtract of a <hi>LETTER</hi> from <hi>Barmudas</hi> to <hi>Cadwallader Jones,</hi> Governour of the <hi>Bahama Iſlands.</hi>
+            </head>
+            <div type="part">
+               <p>
+                  <hi>Sir,</hi>
+               </p>
+               <p>YOur Letter directed to Governour would be of the <hi>Bahaman's</hi> and his Counſel, hath come to my hand; and I (having a great reſpect for the perſon to whom it was ſent) thereupon held my ſelf obliged to give my own and others thoughts of that Letter. The ſtile of your verſes I much admire, but they run not very ſmooth, thro' the inequality of their Feet; a certain perſon who had a ſight of them, ſaid, if a School-boy ſeven years old had writ ſuch ſtuff, he would have Jerk'd him till he Beſhit himſelf.</p>
+               <p>Your ſaid Letter hath produced various Effects here, for in all Companies (when merrily diſpoſed) we have News from <hi>Naſſau.</hi> The Women have it too, and uſe it inſtead of <hi>Raw Head and Bloody Bones</hi> to Affright their <hi>Children</hi> out of croſs grain'd Humours. Some more of your Com<g ref="char:EOLhyphen"/>poſitions would be of great uſe here, for I am informed
+<pb n="13" facs="tcp:170934:8"/> the ſight of them (paſted up over the <hi>Piſſing places</hi>) will cure a <hi>Clap</hi> more Infallibly than <hi>Aqua Tetrachy machacon,</hi> or, <hi>Mercurius Dulcis.</hi> An unlucky Doctor (to a perſon much troubled with Groſs Humours) preſcribed a Doſe of it as <hi>Purging Phyſick,</hi> of which, the <hi>Patient</hi> taking but one Verſe, it gave him Fifteen <hi>Stools.</hi> A <hi>Maggot Pated Fellow (like your ſelf)</hi> ancy'd he had an <hi>Allegator</hi> or young <hi>Crockadile</hi> in his <hi>Belly,</hi> and to deliver him of it, a <hi>Vomit</hi> was judg'd moſt propper, and a <hi>Potion</hi> of the Infuſion of <hi>Crocus Me<g ref="char:EOLhyphen"/>tallorum,</hi> fitter for a <hi>Horſe</hi> than a <hi>Man</hi> was preſcribed, but it proved ineffectual, not being ſtrong enough; Then ſaid an arch wag, give the Gentleman part of Governour <hi>Jones</hi> his Letter, thereupon they agreed to give him your <hi>Accroſtick</hi> on the name <hi>Trott,</hi> but before the <hi>Patient</hi> had taken half of it, they thought he would vomit up his <hi>Heart, Liver</hi> and <hi>Lungs,</hi> by the violent opperation of this ſtrong <hi>Emettick.</hi>
+               </p>
+               <p>
+                  <hi>Sir,</hi> I have no other <hi>News</hi> whereof to Advertiſe you, but for as much that I have heard the ſame of your profound Wiſdom, in reſolving intricate Queſtions (being a ſecond <hi>Solomon</hi> in your own conceit) I propoſe this Queſtion to you, <hi>viz</hi> If a Man be found to be <hi>Felo de ſe,</hi> by the <hi>Coronors</hi> In<g ref="char:EOLhyphen"/>queſt, whether the <hi>Law</hi> in ſuch caſe will afford him the Be<g ref="char:EOLhyphen"/>nefit of the <hi>Clergy,</hi> and deſire the Favour of your opinion by the firſt oppertunity: In granting thereof, you will In<g ref="char:EOLhyphen"/>finitely oblige him that (with an <hi>Accroſtick</hi> on your <hi>Sir-Name</hi>) takes leave, remaining, <hi>Sir,</hi> your Extraordinary wel<g ref="char:EOLhyphen"/>wiſher — <hi>Palmarin de Olwa, alias, Lazarill des Agnes</hi>
+                  <q>
+                     <l>I tell thee what, <hi>Cad. Jones</hi> thou art the ſport,</l>
+                     <l>Of each Lewd Fellow, and the Common ſort.</l>
+                     <l>Ne're ſuch a Fool as you, who would ſeem witty,</l>
+                     <l>E're yet was found in <hi>Naſſau</hi> City.</l>
+                     <l>So far you well, if more I'm ſure 'tis pitty.</l>
+                  </q>
+               </p>
+            </div>
+         </div>
+         <div type="letter">
+            <pb n="14" facs="tcp:170934:9"/>
+            <head>A Letter from Sir <hi>Peter Colleton</hi> (then a <hi>Proprietor</hi> of <hi>Carolina</hi> and the <hi>Bahama</hi> Iſlands) to <hi>Cadwallader Jones,</hi> Governour of the ſaid Iſlands, Directed for him, in <hi>Providence,</hi> as followeth,</head>
+            <div type="part">
+               <p>Coll. Jones,</p>
+               <p>
+                  <hi>I</hi> Wrote to you by <hi>Coll. Ludwell,</hi> ſince when no Oppertunity hath preſented until now, I have read ſeveral Letters from you, and have alſo had the peruſal of your <hi>Pacquet</hi> Directed to the <hi>Earl</hi> of <hi>Craven,</hi> and take notice of the Letters you writ to Mr. <hi>Muſgrave,</hi> and Mr. <hi>Trott,</hi> in which <hi>Pacquet,</hi> Coppys of them were incloſed; and have alſo ſeen the Coppy of the Letter you wrote to Sir <hi>Robert Robertſon,</hi> Governour of <hi>Barmudas;</hi> I was in hopes you had ſeen your Error in writing ſuch Letters as that was to Sir <hi>Robert;</hi> But thoſe you ſent ſince to <hi>Simon Muſgrave,</hi> and Mr. <hi>Samuel Trott,</hi> Convince the Lords you have not; but perſiſt in the ſame indiſcretion: For no man that ſees theſe Letters, but muſt conclude they came from the Pen of a Man out of his ſences; And that you Expoſe, the Reputation of the Lords by them: For what will the world think of their Em<g ref="char:EOLhyphen"/>ploying a Man as Governour, that hath no more prudence than to ſend ſuch Extravagant Letters, up and down the world, and ſend Coppys of them to the Lords <hi>Proprietors,</hi> that they alſo may be witneſſes of his Indiſcretion. They (to vindicate themſelves) have thought fit to Impower Mr. <hi>Nicholas Trott</hi> to be Governour of the <hi>Bahama</hi> Iſlands, to whom you are to Sur<g ref="char:EOLhyphen"/>render the Government: I am heartily ſorry it ſhould ſo fall out, The Lords have a great kindneſs and reſpect for you, and will be willing to do what is in their p<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>wer for you, but they are anſwer<g ref="char:EOLhyphen"/>able to the King for the good Government of the Places granted to them, and cann<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t anſwer the not doing what they have now done. Write me what you think may be of advantage for you, that they can do, and I will get it diſpach'd for you: I am your very Affectionate Friend.</p>
+               <closer>
+                  <signed>P. Colleton.</signed>
+                  <dateline>
+                     <hi>London</hi> 
+                     <date>
+                        <hi>the 3d of Febr. 1692.</hi>
+                     </date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="postscript">
+               <pb n="15" facs="tcp:170934:9"/>
+               <head>Poſtſcript.</head>
+               <p>
+                  <hi>My Lords,</hi>
+               </p>
+               <p>THE Sufferings that undeſervedly I have undergon by the Oppreſſion and Injuſtice of your Miniſters, (<hi>viz. Jones, Trott,</hi> and your Deputys Choſen and Appointed by them) have been ſo Great, and continued ſo Long, that I cannot digeſt them, therefore I have waded through great Difficulties and Dangers in coming from <hi>Providence</hi> to <hi>England</hi> for Redreſs. And ſince my Arival here, I have truly repreſented my Caſe to your Lordſhips, ſo as would move the Hearts of every one (that is not degenerated from Chriſtianity, M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rality, and Humanity) with pitty to the Oppreſſed, and Indignation againſt the Barba<g ref="char:EOLhyphen"/>rous Oppreſſors. As to my ſelf, when I reflect upon the reſent<g ref="char:EOLhyphen"/>ment Expreſſed by all the tribes of <hi>Iſrael</hi> (the Culpable only ex<g ref="char:EOLhyphen"/>cepted) in the <hi>Levites</hi> Caſe, Recorded in the Sacred Hiſtory, <hi>viz.</hi> the <hi>20th Chap.</hi> of <hi>Judges,</hi> from the <hi>1ſt</hi> to the <hi>14.</hi> Verſe, I am filled with Aſtoniſhment at your ſtrange <g ref="char:V">Ʋ</g>naffectedneſs with the Relation that hath been made to you of the Agents Monſtrous Villanies, and the patients dreadful Sufferings in this Caſe (which far exceeds the <hi>Levits</hi> in heinous Aggravations) eſpecially if you conſider how much you have contributed to both, by putting the too Edged Sword of Supreme Authority into the hand of an Indigent-Vitious-Frantick-Fool, who hath daily uſed it to the diſhonour of your Lordſhips, and deſtruction of the Kings beſt Subjects inhabiting your Province, ever ſince he was admitted to the Government, and above all others to the ruin of me, who once more apply my ſelf to you for Redreſs, the which if you do not ſpeedily grant me, I ſhall be obliged to bring
+<pb n="16" facs="tcp:170934:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:170934:10"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="16" facs="tcp:170934:11" rendition="simple:additions"/> my Complaints againſt your Delegates, and your ſelves, before the King and Counſel, to whom Sir <hi>Peter Colleton</hi> (in his Letter to <hi>Jones</hi>) hath acknowledged you are accountable for the Government of the Provinces granted to you by the Charters of His Majeſties Royal Predeceſſors.</p>
+               <p>Your Lordſhips Anſwer to this my laſt Adreſs, is Humbly Expected and Deſired by your Actively and Poſſively well<g ref="char:EOLhyphen"/>deſerving, tho' Ignobly and <g ref="char:V">Ʋ</g>nmercifully diſregarded Servant,</p>
+               <closer>
+                  <signed>T. B.</signed>
+               </closer>
+               <pb facs="tcp:170934:11"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
